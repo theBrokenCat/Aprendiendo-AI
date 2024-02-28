@@ -20,6 +20,8 @@ Las neuronas se conectan con conexiones. Cada conexión tiene un peso asignado, 
 
 Cada neurona a excepción de la Capa de entrada tiene un *sesgo* que es un valor numérico
 ![[operaciones de neuronas.png]]
+![image](https://github.com/theBrokenCat/Aprendiendo-AI/assets/107768767/6df74f6f-7bee-43c7-9a41-b5cb474a5057)
+
 #lineal
 
 ## Inicio de una red neuronal
