@@ -19,7 +19,8 @@ Las neuronas se conectan con conexiones. Cada conexión tiene un peso asignado, 
 #convolucional
 
 Cada neurona a excepción de la Capa de entrada tiene un *sesgo* que es un valor numérico
-![Uploading operaciones de neuronas.png…]()
+![operaciones de neuronas](https://github.com/theBrokenCat/Aprendiendo-AI/assets/107768767/ee7776a4-1bf7-47de-9d17-af8dada3f87e)
+
 
 
 #lineal
