@@ -15,11 +15,11 @@ Para programar un programa en el que pase de grados Celsius a Fahrenheit se har�
 # Red neuronal
 Las redes neuronales se separan en capas, con una o más neuronas. Tenemos siempre una *capa de entrada* y una *capa de salida* donde obtendremos el resultado calculado.
 Las neuronas se conectan con conexiones. Cada conexión tiene un peso asignado, que representa la importancia entre conexión.
-![[conexiones de neuronas.png]]
+![conexiones de neuronas](https://github.com/theBrokenCat/Aprendiendo-AI/assets/107768767/53a6a6bf-366f-4ad8-a0ae-6f3441276a99)
 #convolucional
 
 Cada neurona a excepción de la Capa de entrada tiene un *sesgo* que es un valor numérico
-![operaciones de neuronas](https://github.com/theBrokenCat/Aprendiendo-AI/assets/107768767/ee7776a4-1bf7-47de-9d17-af8dada3f87e)
+![operaciones de neuronas](https://github.com/theBrokenCat/Aprendiendo-AI/assets/107768767/5195edee-9f92-476f-be9a-3f58885d97ee)
 
 
 
@@ -32,7 +32,8 @@ Veamos el ejemplo de pasar de una unidad de grados a otra en el [[De Celsius a F
 # Tipos de problemas
 ## Regresión
 La salida del modelo o red neuronal es un número. Puede recibir gran cantidad de entradas pero acaba convergiendo en la salida como un número.
-![[dibujo varias capas ejemplo 1.png]]
+![dibujo varias capas ejemplo 1](https://github.com/theBrokenCat/Aprendiendo-AI/assets/107768767/68afd7d8-6a13-4509-99d1-26975af498b3)
+
 ## Clasificación
 La salida del modelo o red neuronal no es un número, nuestra red tendrá que decidir a qué categoría o #clase pertenece la entrada. Si tuviéramos 10 clases posibles, nuestra red neuronal tendrá que escoger una.
 En estos problemas trabajaremos con imágenes, donde cada neurona de entrada corresponde a un píxel de la imagen. Definiremos varias neuronas de salida como varias clases.
